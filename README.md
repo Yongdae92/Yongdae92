@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&text=Yongdae_🇰🇷&fontColor=003366&animation=twinkling&color=66CCFF&fontSize=40&descSize=&height=150)
 <br/>
 <div align="center">
-    <h2>traveling...✈️</h2>
+    <h2>Get back✈️</h2>
     <div style="display: flex; justify-content: center;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django&logoColor=white">
